@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
